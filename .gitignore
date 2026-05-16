@@ -1,0 +1,4 @@
+tmp/
+.env
+air_errors.log
+build-errors.log
